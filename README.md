@@ -22,11 +22,14 @@ This command located on left side of the web page consists of five navigation co
  *Enter a City,<br>
  *Enter a State,<br>
  *Entera Country,<br>
- *Enter a Shape.<br>
- 
+ *Enter a Shape.
+
+###### Image 2: Filter search commands
+![Filter search commands](https://user-images.githubusercontent.com/34750363/157781741-d3223c81-b7e7-4c25-b232-92141512bd40.png)
+
 For example, below is how the web page would differ from its default state if we searched for a specific State such as Florida (i.e., fl). Thus, we could look for any information pertaining to the above search commands by just entering a request in any of them and pushing enter on a keyboard.
 
-###### Image 2: Search for Florida results
+###### Image 3: Search for Florida results
 ![Florida Search](https://user-images.githubusercontent.com/34750363/157779787-8f40b2f2-ad44-47fa-8d76-9bb6f908e49e.png)
 
 ### Summary
