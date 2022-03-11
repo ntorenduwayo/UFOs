@@ -33,3 +33,12 @@ For example, below is how the web page would differ from its default state if we
 ![Florida Search](https://user-images.githubusercontent.com/34750363/157779787-8f40b2f2-ad44-47fa-8d76-9bb6f908e49e.png)
 
 ### Summary
+#### 1.	Drawbacks <br>
+There are several drawbacks, and one of them is a lack of an intuitive interaction when using the filter search commands:
+*	The commands are case sensitive (i.e., when entering anything in the command, it should look exactly as it is in the data table).
+*	There is no way of telling the next action (e.g., Hit the enter key on your keyboard to update the page with the results) after entering a request in the search command.
+*	There is no information about how to reset the web page to its default state after searching for information.
+
+#### 2.	Recommendations <br>
+*	We could improve the web page interface dynamics more user friendly by improving the search command to intuitively interact with a user.
+*	We could use a live data table to get the most recent UFO sightings.
