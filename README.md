@@ -40,5 +40,5 @@ There are several drawbacks, and one of them is a lack of an intuitive interacti
 *	There is no information about how to reset the web page to its default state after searching for information.
 
 #### 2.	Recommendations <br>
-*	We could improve the web page interface dynamics more user friendly by improving the search command to intuitively interact with a user.
+*	We could improve the web page interface dynamics to be more user friendly by improving the search command to intuitively interact with a user.
 *	We could use a live data table to get the most recent UFO sightings.
